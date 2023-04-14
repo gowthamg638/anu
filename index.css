@@ -1,3 +1,12 @@
+
+
+
+
+
+
+
+
+
 body {
 
   background-color:rgb(60,60,60);
@@ -5,5 +14,13 @@ body {
   color: white;
 
   font-size: 30px;
+
+  display:flex;
+
+  align-items:center;
+
+  justify-content:center;
+
+  height:1700px;
 
 }
